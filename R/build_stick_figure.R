@@ -29,3 +29,4 @@ build_stick_figure <- function(background, scale = 0.25, shift_x = 0, shift_y = 
     ggplot2::geom_path(data = df, show.legend = FALSE, ggplot2::aes(x, y, size = 1)) +
     ggplot2::theme_void()
 }
+
