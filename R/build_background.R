@@ -1,7 +1,7 @@
-#' Returns a plot the background doodle
+#' Returns a plot with the background doodle
 #'
 #' @param ground Choose between grass, sand, or dirt ground
-#' @param num_cycles Choose between day and night for the sky.
+#' @param sky Choose between day and night for the sky.
 #'
 #' @return A background doodle
 #'

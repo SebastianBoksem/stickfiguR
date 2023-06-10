@@ -1,4 +1,4 @@
-#' Returns a plot the stick figure added
+#' Returns a plot with the stick figure added
 #'
 #' @param background The previous background you have created
 #' @param scale The scale size of the stick figure, default is .25
