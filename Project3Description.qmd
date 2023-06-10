@@ -2,6 +2,7 @@
 title: "Project 3: stickfiguR"
 format: html
 editor: visual
+self-contained: true
 ---
 
 ```{r, output=FALSE}
