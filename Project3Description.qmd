@@ -20,7 +20,7 @@ build_background(ground = "grass", sky = "day") |>
 build_stick_figure(scale = .35, shift_x = -.65, shift_y = -.55) |>
   build_stick_figure(scale = .20, shift_x = .5, shift_y = -.15) |>
   build_lake(shift_y = -.8, angle = 0) |>
-  build_house(scale = .20, shift_x = .90) |>
+  build_house(scale = .20, shift_x = .90, color = "brown") |>
   build_sun_or_moon(type= "sun") 
 
  
